@@ -5,16 +5,16 @@ header {
     align-items: center;
     justify-content: center;
     gap: 50px;
-    padding: 80px;
+    padding: 30px;
 
 }
 
 .imobimg {
-    width: 200px;
+    width: 80px;
 }
 
 .imobh1 {
-    size: 150px;
+    size: 130px;
     color: rgb(255, 255, 255);
 
 }
@@ -25,7 +25,7 @@ header {
 .sec1 {
 
     background-color: #e09a75;
-    padding: 100px;
+    padding: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -70,7 +70,7 @@ header {
 }
 
 .img-03 {
-   width: 500px;
+    width: 500px;
 }
 
 .imobp3 {
@@ -98,6 +98,33 @@ button {
 
 }
 
+.sec5{
+    background-color: #d6815d;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 900px;
+    padding: 30px;
+}
+
+.imobimg2{
+width: 60px;
+
+}
+
+.imobh2{
+    color: #000000;
+    font-size: 20px;
+}
+
+.sec6{
+    background-color: #ebb38c;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
 
 
 /* .navbar { 
