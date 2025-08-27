@@ -126,6 +126,41 @@ width: 60px;
     gap: 20px;
 }
 
+.sec7{
+    background-color: #f5cba4;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.imobh3{
+    color: #000000;
+    font-size: 20px;
+}
+
+.sec8 {
+background-color: #000000; /*cor de fundo da sessão*/
+padding: 40px; /* preenchimento da sessão*/
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 30px;
+
+}
+
+
+.div-exemplo { /*estilizando a div*/
+background-color: #2b2a2a;/*cor de fundo da caixa*/
+color: #ffffff;
+height: 400px;/* altura da caixa*/
+width:300px ;/* largura da caixa*/
+
+}
+
+
+
+
 
 /* .navbar { 
      background: rgba(0, 0, 0, 0.7);
