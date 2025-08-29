@@ -140,7 +140,7 @@ width: 60px;
 }
 
 .sec8 {
-background-color: #000000; /*cor de fundo da sessão*/
+background-color: #ebb38c; /*cor de fundo da sessão*/
 padding: 40px; /* preenchimento da sessão*/
 display: flex;
 justify-content: center;
@@ -151,13 +151,19 @@ gap: 30px;
 
 
 .div-exemplo { /*estilizando a div*/
-background-color: #2b2a2a;/*cor de fundo da caixa*/
+background-color: #815c42;/*cor de fundo da caixa*/
 color: #ffffff;
 height: 400px;/* altura da caixa*/
 width:300px ;/* largura da caixa*/
-
+padding: 30px;
+gap: 20px;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+text-align: center; /*alinhar texto no centro*/
+font-family: Arial, Helvetica, sans-serif/* font da letra*/
 }
-
 
 
 
